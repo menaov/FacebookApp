@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.438
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacebookFeaturesLogic", "FacebookFeaturesLogic\FacebookFeaturesLogic.csproj", "{12D27E96-B17E-46B1-B11F-A8F8AC54AE1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacebookFeaturesUI", "FacebookFeaturesUI\FacebookFeaturesUI.csproj", "{5D15284B-B225-4A54-A9C8-4B0BC9961826}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12D27E96-B17E-46B1-B11F-A8F8AC54AE1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12D27E96-B17E-46B1-B11F-A8F8AC54AE1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12D27E96-B17E-46B1-B11F-A8F8AC54AE1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12D27E96-B17E-46B1-B11F-A8F8AC54AE1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D15284B-B225-4A54-A9C8-4B0BC9961826}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D15284B-B225-4A54-A9C8-4B0BC9961826}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D15284B-B225-4A54-A9C8-4B0BC9961826}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D15284B-B225-4A54-A9C8-4B0BC9961826}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A01D9BE0-FE2D-4C84-A7E2-9820B965FA25}
+	EndGlobalSection
+EndGlobal

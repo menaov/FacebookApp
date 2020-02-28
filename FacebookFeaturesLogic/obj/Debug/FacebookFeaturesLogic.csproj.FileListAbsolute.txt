@@ -1,0 +1,8 @@
+C:\Users\Menahem\Desktop\ToGit\Facebook App\FacebookFeaturesLogic\bin\Debug\FacebookFeaturesLogic.dll
+C:\Users\Menahem\Desktop\ToGit\Facebook App\FacebookFeaturesLogic\bin\Debug\FacebookFeaturesLogic.pdb
+C:\Users\Menahem\Desktop\ToGit\Facebook App\FacebookFeaturesLogic\bin\Debug\Facebook.dll
+C:\Users\Menahem\Desktop\ToGit\Facebook App\FacebookFeaturesLogic\bin\Debug\FbGraphApiWrapper.dll
+C:\Users\Menahem\Desktop\ToGit\Facebook App\FacebookFeaturesLogic\obj\Debug\FacebookFeaturesLogic.csproj.CoreCompileInputs.cache
+C:\Users\Menahem\Desktop\ToGit\Facebook App\FacebookFeaturesLogic\obj\Debug\FacebookFeaturesLogic.csproj.CopyComplete
+C:\Users\Menahem\Desktop\ToGit\Facebook App\FacebookFeaturesLogic\obj\Debug\FacebookFeaturesLogic.dll
+C:\Users\Menahem\Desktop\ToGit\Facebook App\FacebookFeaturesLogic\obj\Debug\FacebookFeaturesLogic.pdb
